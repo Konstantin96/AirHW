@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AirHW", "AirHW\AirHW.csproj", "{577E4120-9CA3-4CEF-B409-FF0A27E3A5A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIR.LIB", "AIR.LIB\AIR.LIB.csproj", "{28CB74B6-D80C-42B3-B9BB-5D5E755DCB02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{577E4120-9CA3-4CEF-B409-FF0A27E3A5A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{577E4120-9CA3-4CEF-B409-FF0A27E3A5A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{577E4120-9CA3-4CEF-B409-FF0A27E3A5A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{577E4120-9CA3-4CEF-B409-FF0A27E3A5A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28CB74B6-D80C-42B3-B9BB-5D5E755DCB02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28CB74B6-D80C-42B3-B9BB-5D5E755DCB02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28CB74B6-D80C-42B3-B9BB-5D5E755DCB02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28CB74B6-D80C-42B3-B9BB-5D5E755DCB02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
